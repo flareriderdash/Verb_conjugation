@@ -24,17 +24,17 @@ so when you run ./verb_conjugations.py
 you will see this output below telling the opitons
 (I've added more so you can see my point)
 
-Avalible Searches
-
-gustar		English: to like
-beber		  English: to drink
-disculpar	English: Excuse Me
-leer		  English: to read
-escribir	English: To Write
-hablar		English: To Speak/To Talk
-ser		    English: To Be
-comer		  English: To Eat
-hacer		  English: To Do,To Make
+    Avalible Searches
+    -----------------
+    gustar		English: to like
+    beber		  English: to drink
+    disculpar	English: Excuse Me
+    leer		  English: to read
+    escribir	English: To Write
+    hablar		English: To Speak/To Talk
+    ser		    English: To Be
+    comer		  English: To Eat
+    hacer		  English: To Do,To Make
 
 If you run ./verb_conjugations.py gustar it will give you the 
 congjugation table for that infinative
