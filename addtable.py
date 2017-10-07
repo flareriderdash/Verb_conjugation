@@ -48,11 +48,22 @@ try:
 	#	runs and removes a key in the sheets
 	#	dictonary if the first argument is 
 	#	--remove-key and uses the aregument
-	#	after that to delete the key
+	#	after that to delete the key and 
+	#	removes the word form the .Word file
 	#-------------------------------------------------
 	else:
 		del sheets[sys.argv[2]]
 		pickle.dump(sheets,open('dict','wb'))
+		word = [str(sys.argv[2])]
+		newstring=''
+		oldfile = open('.Words',"r+")
+  		for line in oldfile:
+        		if not any(Word in line for Word in word):
+           		 	newstring+=str(line)
+		oldfile.close()
+		oldfile=open('.Words','w+')
+		oldfile.write(newstring)
+		oldfile.close()
 	#-------------------------------------------------
 
 #Sets error message if there arent enough arguments
