@@ -1,0 +1,38 @@
+(dp1
+S'hacer'
+p2
+S'                hacer\n             yo         \x1b[31mhago\x1b[0m\n             tu         \x1b[31mhaces\x1b[0m\n     el/ella/UD         \x1b[31mhace\x1b[0m\n       nosotros         \x1b[31mhacemos\x1b[0m\n       vosotros         \x1b[31mhaceis\x1b[0m\nellos/ellas/Uds         \x1b[31mhacen\x1b[0m\n'
+p3
+sS'leer'
+p4
+S'                leer\n             yo         \x1b[31mleo\x1b[0m\n             tu         \x1b[31mlees\x1b[0m\n     el/ella/UD         \x1b[31mlee\x1b[0m\n       nosotros         \x1b[31mleemos\x1b[0m\n       vosotros         \x1b[31mleeis\x1b[0m\nellos/ellas/Uds         \x1b[31mleen\x1b[0m\n'
+p5
+sS'ser'
+p6
+S'                ser\n             yo         \x1b[31msoy\x1b[0m\n             tu         \x1b[31meres\x1b[0m\n     el/ella/UD         \x1b[31mes\x1b[0m\n       nosotros         \x1b[31msomos\x1b[0m\n       vosotros         \x1b[31msois\x1b[0m\nellos/ellas/Uds         \x1b[31mson\x1b[0m\n'
+p7
+sS'gustar'
+p8
+S'                gustar\n             yo         \x1b[31mgusto\x1b[0m\n             tu         \x1b[31mgustas\x1b[0m\n     el/ella/UD         \x1b[31mgusta\x1b[0m\n       nosotros         \x1b[31mgustamos\x1b[0m\n       vosotros         \x1b[31mgustais\x1b[0m\nellos/ellas/Uds         \x1b[31mgustan\x1b[0m\n'
+p9
+sS'escribir'
+p10
+S'                escribir\n             yo         \x1b[31mescribo\x1b[0m\n             tu         \x1b[31mescribes\x1b[0m\n     el/ella/UD         \x1b[31mescribe\x1b[0m\n       nosotros         \x1b[31mescribimos\x1b[0m\n       vosotros         \x1b[31mescribis\x1b[0m\nellos/ellas/Uds         \x1b[31mescriben\x1b[0m\n'
+p11
+sS'hablar'
+p12
+S'                hablar\n             yo         \x1b[31mhablo\x1b[0m\n             tu         \x1b[31mhabias\x1b[0m\n     el/ella/UD         \x1b[31mhabla\x1b[0m\n       nosotros         \x1b[31mhablamos\x1b[0m\n       vosotros         \x1b[31mhablais\x1b[0m\nellos/ellas/Uds         \x1b[31mhablan\x1b[0m\n'
+p13
+sS'beber'
+p14
+S'                beber\n             yo         \x1b[31mbebo\x1b[0m\n             tu         \x1b[31mbebes\x1b[0m\n     el/ella/UD         \x1b[31mbebe\x1b[0m\n       nosotros         \x1b[31mbebemos\x1b[0m\n       vosotros         \x1b[31mbebeis\x1b[0m\nellos/ellas/Uds         \x1b[31mbeben\x1b[0m\n'
+p15
+sS'disculpar'
+p16
+S'                disculpar\n             yo         \x1b[31mdisculpo\x1b[0m\n             tu         \x1b[31mdisculpas\x1b[0m\n     el/ella/UD         \x1b[31mdisculpa\x1b[0m\n       nosotros         \x1b[31mdisculpamos\x1b[0m\n       vosotros         \x1b[31mdisculpais\x1b[0m\nellos/ellas/Uds         \x1b[31mdisculpan\x1b[0m\n'
+p17
+sS'comer'
+p18
+S'                comer\n             yo         \x1b[31mcomo\x1b[0m\n             tu         \x1b[31mcomes\x1b[0m\n     el/ella/UD         \x1b[31mcome\x1b[0m\n       nosotros         \x1b[31mcomemos\x1b[0m\n       vosotros         \x1b[31mcomeis\x1b[0m\nellos/ellas/Uds         \x1b[31mcomen\x1b[0m\n'
+p19
+s.
