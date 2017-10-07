@@ -8,13 +8,13 @@ and conjugation tables in the order of (i,you(informal),he/she or you,we,you(for
 Ex. ./addtable leer leo lees lee leemos leeis leen "To Read"
 This will add a table like the one below to the pickle file
 
-                leer
-             yo         leo
-             tu         lees
-     el/ella/UD         lee
-       nosotros         leemos
-       vosotros         leeis
-ellos/ellas/Uds         leen
+                      leer
+                 yo         leo
+                 tu         lees
+         el/ella/UD         lee
+           nosotros         leemos
+           vosotros         leeis
+    ellos/ellas/Uds         leen
 
 And at the same time will add to the .Words file 
 
@@ -39,13 +39,13 @@ you will see this output below telling the opitons
 If you run ./verb_conjugations.py gustar it will give you the 
 congjugation table for that infinative
 
-                gustar
-             yo         gusto
-             tu         gustas
-     el/ella/UD         gusta
-       nosotros         gustamos
-       vosotros         gustais
-ellos/ellas/Uds         gustan
+                     gustar
+                 yo         gusto
+                 tu         gustas
+         el/ella/UD         gusta
+           nosotros         gustamos
+           vosotros         gustais
+    ellos/ellas/Uds         gustan
 
 Now if you put in a word wrong or screw up the order of the conjugations you can run addtable.py --remove-key ${word}
 it will remove the word and its table from the pickle file and remove the word frome the .Word file keeping accurate 
