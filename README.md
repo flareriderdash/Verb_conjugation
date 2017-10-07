@@ -25,7 +25,7 @@ you will see this output below telling the opitons
 (I've added more so you can see my point)
 
 Avalible Searches
------------------
+#-----------------
 gustar		English: to like
 beber		  English: to drink
 disculpar	English: Excuse Me
